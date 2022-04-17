@@ -1,0 +1,18 @@
+
+
+:root {
+
+    /*SECTIONS BACKGROUND-COLORS */
+    --dark-light: hsl(219, 30%, 18%);
+    --dark-middle: hsl(217, 27%, 15%);
+    --dark: hsl(217, 27%, 13%);
+    --dark-blue: hsl(215, 52%, 9%);
+
+    /* COLORS */
+    --cyan: #65e2d9;
+    --blue: #339ecc;
+    --error: #ff4242;
+    --valid: #0ADD0A;
+    --white: #ffffff;
+    --off-white: #ffffffbf;
+}
