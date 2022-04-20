@@ -1,4 +1,9 @@
 
+html {
+    scroll-behavior: smooth;
+   ;
+}
+
 body {
     display: grid;
     grid: "header header"
@@ -6,7 +11,7 @@ body {
           "footer footer" /
           1fr 1fr;
 
-    background-color: var(--off-white);
+    background-color: var(--dark);
 }
 
 .header {
